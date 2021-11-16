@@ -85,7 +85,7 @@ h3{
     font-size: 2rem;
     font-weight: normal;
     text-align:center; }
-}
+
 
 h4{
     text-transform: uppercase;
@@ -96,7 +96,7 @@ h4{
     letter-spacing: 0.25rem;
     font-weight: normal;
     padding-bottom: 1.125rem;
-    text-align:center; }}
+    text-align:center; }
 
 h5{
     font-size: 1rem;
